@@ -68,9 +68,8 @@ Your final grade will be computed as follows:
 
 |Item | Percentage |
 |---|---|
-| Labs | 10% |
-| Weekly Assignments | 10% |
-| Projects | 40% |
+| Weekly Assignments | 40% |
+| Projects | 20% |
 | Exams | 40% |
 
 The lower thresholds for final letter grades are as follows, though we reserve the right to curve:
