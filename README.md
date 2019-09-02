@@ -1,3 +1,4 @@
+THIS IS AN EDIT!~!!!!!!
 <h1 align="center"><b>Math 355 - Mathematics of Machine Learning <br> Fall 2019 Syllabus</b></h1>
 
 <br>
