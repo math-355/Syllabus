@@ -33,13 +33,15 @@ Once I am finished looking over your work, I will push your graded assignemnt ba
 
 I encourage you to work with your classmates on homework assignments! However, it is important to be an active collaborator rather than a passive one. On the majority of assignments, there will be a question asking who you collaborated with (includeing web pages). Using someone else code is fine in this class, but you must cite it. Falure to do so violates open source licences and is just lame. 
 
-### Midterm and Final Exams
-There will be three in-class exams, scheduled as follows. 
-* Exam 1: 
-* Exam 2: 
-* Exam 3: 
+### Projects
+There will be three projects through the course. These will be team projects and the goal is to use python to implement the various machine learning algorithms we will be talking about. Each project will be host on [kaggle.com](kaggle.com). The goal fo these projects is to get you familiar with the packages and tools of the trade. It is completely fine to use code you find online as long as you cite it. While using someone elses code is approvewd, you must be able to explain how it works. You will be graded on the accuracy of your results, as well as on the quality of documentation of your code. 
 
-The written final exam is scheduled by the registrar for Monday, December 16 7:00 - 10:00pm. 
+### Midterm and Final Exams
+There will be two in-class exams, scheduled as follows. 
+* Exam 1: Wednesday, October 16 (before Fall Break)
+* Exam 2: Wednesday, Noveber 20 (before Thanksgiving Break)
+
+The final exam is scheduled by the registrar for Monday, December 16 7:00 - 10:00pm. 
 I try my best to schedule exams so they do not conflict with religious observances; however, if an exam falls on a holiday you observe, please contact me as soon as possible to find an alternate time.\\
 \\
 
@@ -51,15 +53,6 @@ Your final grade will be computed as follows:
 | Weekly Assignments | 40% |
 | Projects | 20% |
 | Exams | 40% |
-
-The lower thresholds for final letter grades are as follows, though we reserve the right to curve:
-
-| A+ | A | A- | B+ | B | B- | C+ | C | C- | D+ | D | D- |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| 98 | 95 | 91 | 88 | 85 | 81 | 77 | 74 | 70 | 66 | 63 | 60 |
-
-We generally do not round final grades (e.g., 90.7 is a B+).
-
 
 <br>
 
