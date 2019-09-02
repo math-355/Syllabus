@@ -4,7 +4,7 @@
 
 <p align="center">
   MW  02:30PM - 03:45PM, SCCT-3039 <br>
-  Office Hours: TBA, CJ 107  <br>
+  Office Hours: MW 10am-12PM, Th 2pm-4pm, CJ 107  <br>
   Professor Stone,  <a href="mailto:bstone@hamilton.edu">bstone@hamilton.edu</a>
 </p>
 
