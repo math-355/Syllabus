@@ -38,6 +38,7 @@ There will be three in-class exams, scheduled as follows.
 * Exam 1: 
 * Exam 2: 
 * Exam 3: 
+
 The written final exam is scheduled by the registrar for Monday, December 16 7:00 - 10:00pm. 
 I try my best to schedule exams so they do not conflict with religious observances; however, if an exam falls on a holiday you observe, please contact me as soon as possible to find an alternate time.\\
 \\
