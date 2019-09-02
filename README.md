@@ -13,6 +13,10 @@
 <h2 align="center"><b>Overview</b></h2>
 
 <br>
+### Introduction
+Machine learning is a very broad subject and needless to say we will not be covering all of it. In this course we will focus on the three main algorithms, Support Vector Modules (SVM), Principle Component Analysis (PCA), and Artificial Neural Networks (ANN). As this is a math course, we will focus on the how these algorithms work, giving proofs along the way. The math we will learn can be thought of as an extension of both linear algebra and multivariable calculus. We will use some probablility and statistics along the way, but will try to keep it at the level learnen in High School. 
+
+As the application of the mathematics is also important, the homework and projects will give you a place to actually write code implemeting the mathimatical ideas of the course. We will be using real datasets to get our feet wet in the machine learing world. 
 
 ### Books
 We will be using many recourses throughout this course, all open source and free. There will be a repo dedicated to keeping track of these items. The main text of the course can be found [https://mml-book.github.io/](https://mml-book.github.io/). The book is technically still being written, so best practice is to always goto the website to view the book. 
