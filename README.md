@@ -14,25 +14,11 @@
 
 <br>
 
-### Introduction 
-blah blah blah
-
 ### Books
-We will be using many books throughout the coursee, none blah blah 
-
-### Educational Goals
-
-This course supports several of Hamilton's [Educationl Goals](https://www.hamilton.edu/academics/catalogue/educational-goals-and-curriculum/educational-goals).
-
-_Intellectual Curiosity and Flexibility:_ You may be surprised to learn that mathematicians spend most of our time not solving a problem -- hopefully in new and informative ways.  It takes curiosity and flexibility to learn from each failed attempt.  Eventually, we gain enough perspective to work out a solution.  You will come to appreciate (and hopefully love) this problem-solving practice in Calculus!
-
-_Analytic Discernment:_ A large part of learning Calculus is absorbing techniques and knowing when to deploy them.  You will also learn to express ideas in mathematical notation.
-
-_Creativity:_ Last but not least, mathematics cannot occur without the spark of your creativity as you solve problems that are unlike others you have seen before.
+We will be using many recourses throughout this course, all open source and free. There will be a repo dedicated to keeping track of these items. The main text of the course can be found [https://mml-book.github.io/](https://mml-book.github.io/). The book is technically still being written, so best practice is to always goto the website to view the book. 
 
 ### Technology
-The emphasis of this course is conceptual understanding, not computation. In particular, the use of calculators is not permitted on quizzes, midterm exams, or the final exam. Feel free to use calculators and/or computer software programs on the homework assignments, but keep in mind that you can't use them on exams or quizzes, so use them sparingly. 
-
+We will be relying on technology during this course and you are encouraged to explore strange new worlds. To seek out new tools and new datasets. To boldly go where no Hamilton student has gone before! This being said, keep in mind this is a math class and you will expected to perform computations without the aid of technology. In particular, technology is not permitted on quizzes, midterm exams, or the final exam. Feel free to use computer software/web sites on the homework assignments, but keep in mind that you can't use them on exams or quizzes, so use them sparingly. 
 
 <br>
 
@@ -40,27 +26,20 @@ The emphasis of this course is conceptual understanding, not computation. In par
 
 <br>
 
-### Quizzes
-Quizzes will be given (with or without notice) throughout the semester, {\bf usually on Tuesdays}, and will be graded by your instructor. Quiz questions are designed to give you a preview of exam-type questions.\\
-
 ### Homework
-Homework will be assigned regularly via Blackboard.
-% , and most weeks it will be due at 5:00pm on Tuesdays and Fridays. 
-% The assignments will be 30 points each, 
-The points will be split roughly half and half between homework to be done online, through WebAssign, and homework that you turn in on paper. {\bf The WebAssign will be scheduled mostly at 8:00am the morning of a new topic.} These assignments are meant to introduce you to the topic we will discuss during class. It is expected that you introduce yourself to the basics of the material through the readings/videos before we delve deeper into the topic during class. For the written homework, place your completed on-paper assignments in the appropriate folder outside my
-%  your instructor's 
-office.  WebAssign will grade your online homework immediately, and upper year math majors will grade the on-paper homework.
- % by the next class period.  
- If you have any questions about the grading, please see me. I do not accept late homeworks nor do I schedule make-up quizzes (even for excused absences). Instead, I drop your two lowest homework scores and your lowest quiz score.  This way, without imposing undue burdens on the student graders or your time, you have the flexibility to miss an assignment or quiz for any reason.\endnote{This also protects your privacy: you don't have to tell us why you're missing class or homework if you don't want to.}
+Homework will be assigned weekly via Blackboard. These assignemnts will be split into two parts, math/general questions and python questions. I understand that python is not a requirement for this course, familiarity with rudimentary computer programming was recommended. These assignments will be due on Thursdays and are to be submitted by pushing your work to your assigned repo. 
 
-\textbf{We encourage you to work with your classmates on homework assignments!} However, it is important to be an active collaborator rather than a passive one, or else you may get an unpleasant surprise on quizzes and tests.\\
+Once I am finished looking over your work, I will push your graded assignemnt back to the repo you submitted to. These repos are private and can only be seen by you and me. If you have any questions about the grading, please see me. 
 
-### Blackboard 
-All homework assignments and a link to access WebAssign will be posted on Blackboard under \textit{Homework}. You can view your homework, exam, and quiz grades under \textit{My Grades}. If you notice a grade discrepancy, please let your instructor know within a week of the assignment being handed back. All course documents and in-class group work (plus solutions) will be posted on Blackboard as well.\\
+I encourage you to work with your classmates on homework assignments! However, it is important to be an active collaborator rather than a passive one. On the majority of assignments, there will be a question asking who you collaborated with (includeing web pages). Using someone else code is fine in this class, but you must cite it. Falure to do so violates open source licences and is just lame. 
 
 ### Midterm and Final Exams
-There will be three evening exams, scheduled on \textbf{\examdates} The written final exam is scheduled by the registrar for \textbf{\finalexam}. 
-We try our best to schedule exams so they do not conflict with religious observances; however, if an exam falls on a holiday you observe, please contact your professor as soon as possible to find an alternate time.\\
+There will be three in-class exams, scheduled as follows. 
+* Exam 1: 
+* Exam 2: 
+* Exam 3: 
+The written final exam is scheduled by the registrar for Monday, December 16 7:00 - 10:00pm. 
+I try my best to schedule exams so they do not conflict with religious observances; however, if an exam falls on a holiday you observe, please contact me as soon as possible to find an alternate time.\\
 \\
 
 ### Final Grade Composition
